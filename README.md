@@ -1,4 +1,4 @@
-Github repo: https://github.com/aabb15768/midterm_minesweeper
+Github repo:https://github.com/ch920026/Mid-Project.git
 # 簡介
 - 與window 踩地雷一模一樣，包含
 # 操作方式
