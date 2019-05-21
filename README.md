@@ -1,68 +1,33 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Github repo: https://github.com/aabb15768/midterm_minesweeper
+# 簡介
+- 與window 踩地雷一模一樣，包含
+# 操作方式
+## build
+- clone the repository
+- cd Mid-Project
+- npm install
+- npm start
 
-## Available Scripts
+under the other shell
+- node server.js
+## run
 
-In the project directory, you can run:
+- 到首頁增加PDF網址，若不是PDF則只有部分網頁同意內嵌
+- 到CLass看新增的選單，點進去之後可以觀賞自己貼的slide，右側可以問問題
+- Class清單可以管理所有的Slide
+# 使用的框架
+- React
+- node.js
+- mongodb
+# 我的貢獻
+- 用了一部分antdesign的框架其他都自己刻。
+- 用上課的chat下去改，多了可以增加Slide並且管理的功能
+# Future Work
+- 有一些render沒有寫好，還需要手動click去確定畫面正確
+- 善用await
+- 本來想要直接把pdf拆成json然後可以做一些修改、畫筆記的功能，但搞了很久沒有成功只好改用內嵌
+- 一些簡單的選擇、投票問題
+- 本來要做彈幕功能，覺得應該會很好笑，但是會影響畫面，之後應該設定可以開關彈幕
 
-### `npm start`
-
-Runs the app in the development mode.<br>
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.<br>
-You will also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.<br>
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.<br>
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.<br>
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (Webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+# 心得
+沒有想到光是把前端跟後端連起來就花了很大的力氣，腦子裡知道架構真的寫下去卻一行都打不出來...為什麼要寫這個是因為大家都很不喜歡問問題，每次下課擠成一堆困住教授，上課如果可以匿名問問題也許可以減輕發言的焦慮感，也可以讓大家看到自己的問題，教授也知道大家的學習狀態，寫完的話應該滿棒的拉。
