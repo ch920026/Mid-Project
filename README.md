@@ -1,6 +1,7 @@
 Github repo:https://github.com/ch920026/Mid-Project.git
 # 簡介
 - 上課觀看PDF和可以提問的網頁
+![](/demo.png?raw=true)
 # 操作方式
 ## build
 - clone the repository
