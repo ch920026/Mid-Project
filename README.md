@@ -21,7 +21,7 @@ under the other shell
 - mongodb
 # 我的貢獻
 - 用了一部分antdesign的框架其他都自己刻。
-- 用上課的chat下去改，多了可以增加Slide並且管理的功能
+- 可以增加Slide並且管理
 # Future Work
 - 有一些render沒有寫好，還需要手動click去確定畫面正確
 - 善用await
