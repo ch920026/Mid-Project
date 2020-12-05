@@ -21,7 +21,7 @@ http.listen(port, () => {
 });
 
 // Connect to mongo
-mongoose.connect("<your mongo>", {
+mongoose.connect("<mongodb+srv://test:<test123>@cluster0.rmngq.mongodb.net/<Cluster0>?retryWrites=true&w=majority>", {
   useNewUrlParser: true
 });
 db = mongoose.connection;
