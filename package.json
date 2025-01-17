@@ -5,7 +5,7 @@
   "dependencies": {
     "antd": "^3.26.20",
     "express": "^4.17.1",
-    "mongoose": "^5.11.4",
+    "mongoose": "^8.9.5",
     "react": "^16.14.0",
     "react-dom": "^16.14.0",
     "react-router-dom": "^5.2.0",
